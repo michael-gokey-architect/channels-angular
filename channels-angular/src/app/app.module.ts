@@ -5,6 +5,7 @@ import { RouterModule } from '@angular/router';
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 import { SharedModule } from '../app/shared';
+import { HomeModule} from '../app/home';
 import { FooterComponent } from './shared-module/layout/footer/footer.component';
 import { HeaderComponent } from './shared-module/layout/header/header.component';
 
